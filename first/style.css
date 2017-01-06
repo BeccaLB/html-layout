@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background-color: #D8D8D8;
+}
+
+.top {
+  background: #444444;
+  height: 150px;
+}
+
+.center {
+  background: white;
+  width: 80%;
+  height: 500px;
+  margin-left: 10%;
+
+  position: relative;
+}
+
+.bottom {
+  background: #444444;
+  height: 150px;
+
+  position: absolute;
+  bottom: 0;
+  width: 100%
+}
