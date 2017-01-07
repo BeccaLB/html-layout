@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  background-color: #50E3C2;
+  height: 100%;
+}
+
+html {
+  height: 100%;
+}
+
+.middle {
+  width: 33%;
+  height: 100%;
+  background-color: #488CDC;
+  float:left;;
+}
+
+.right {
+  width: 33%;
+  height: 100%;
+  background-color: #AFDD7F;
+  margin-right: 0;
+  float: right;
+}
